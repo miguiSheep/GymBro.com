@@ -1,0 +1,15 @@
+/*navbar*/
+.navbar {
+  padding: 1rem;
+  background-color: rgb(20, 190, 190)
+}
+
+.navbar-collapse {
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* header */
+.btn-primary {
+  margin: 20px 70px;
+}
